@@ -10,3 +10,7 @@ yarn-error.log*
 
 .vscode/*
 /.idea/
+/postman/
+/.npm-cache/
+/.idea/
+/.env
